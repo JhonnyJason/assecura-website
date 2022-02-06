@@ -4,3 +4,6 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:JhonnyJason/assecura-website-output
+[submodule "sources"]
+	path = sources
+	url = git@github.com:JhonnyJason/assecura-website-sources
