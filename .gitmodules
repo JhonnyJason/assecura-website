@@ -1,3 +1,6 @@
 [submodule "toolset"]
 	path = toolset
 	url = git@github.com:JhonnyJason/toolset
+[submodule "output"]
+	path = output
+	url = git@github.com:JhonnyJason/assecura-website-output
