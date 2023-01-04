@@ -6,7 +6,8 @@ module.exports = {
     },
     "output": {
         "filename": "[name].js",
-        "path": "/home/lenny/thingies/assecura-website/toolset/build/bundles/dev"
+        "path": "/home/lenny/thingies/assecura-website/toolset/build/bundles/dev",
+        "publicPath": ""
     },
     "resolve": {
         "fallback": {
